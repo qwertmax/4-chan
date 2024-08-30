@@ -1,9 +1,8 @@
 starting 3chan producer
-starting 3chan producer
-starting 2chan producer
-starting 2chan producer
 starting 2chan producer
 starting 3chan producer
+starting 2chan producer
+starting 2chan producer
 got message from 4chan
 starting 3chan consumer
 starting 3chan consumer
@@ -12,19 +11,8 @@ got message from 4chan
 starting 3chan consumer
 got message from 3chan
 starting 2chan consumer
-starting 2chan consumer
-starting 2chan consumer
-starting 1chan producer
-starting 1chan producer
-starting 1chan producer
-starting int producer
-sending int
-starting 3chan consumer
-starting 3chan consumer
-starting 1chan producer
-sending int
 starting 2chan producer
-starting 2chan producer
+starting 1chan producer
 starting 1chan producer
 starting 1chan producer
 starting 1chan producer
@@ -33,179 +21,357 @@ starting 2chan consumer
 starting 2chan consumer
 starting 2chan consumer
 got message from 2chan
+starting 1chan consumer
+starting 3chan producer
+starting 1chan producer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan producer
+starting int producer
 starting int producer
 sending int
 sending int
+starting 2chan producer
+sending int
+starting int producer
+starting int producer
+sending int
+starting 3chan consumer
+starting 3chan consumer
 got message from 4chan
 starting 3chan consumer
 starting 3chan consumer
+starting 2chan producer
+starting 1chan producer
+starting 1chan producer
+got message from 3chan
+starting int producer
+got message from 2chan
+sending int
+sending int
+starting int producer
+sending int
+sending int
+got message from 3chan
+starting 2chan consumer
+starting 2chan consumer
+starting 2chan consumer
+got message from 2chan
+starting 1chan consumer
+starting int producer
+starting int producer
+starting int producer
+sending int
+starting 2chan consumer
+starting 2chan consumer
+got message from 3chan
+starting 2chan consumer
+starting 2chan consumer
+starting 2chan consumer
+starting 1chan producer
+starting int producer
+sending int
+starting int producer
+starting int producer
+sending int
+received int
+got message from 3chan
+starting 2chan consumer
+starting 2chan consumer
+starting 2chan consumer
+starting int producer
+sending int
+starting 2chan consumer
+starting 2chan consumer
+starting 1chan producer
+starting int producer
+sending int
+sending int
+sending int
+starting 1chan producer
+starting int producer
+starting int producer
+sending int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting int producer
+sending int
+sending int
+starting int producer
+sending int
+sending int
+sending int
+starting int producer
+sending int
+received int
+starting int producer
+sending int
+received int
+starting int producer
+sending int
+sending int
+sending int
+sending int
+sending int
+sending int
+starting 2chan producer
+starting 1chan producer
+starting 2chan producer
+starting 2chan producer
+starting int producer
+starting 1chan producer
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+received int
+starting int producer
+sending int
+sending int
+received int
+sending int
+received int
+starting 1chan producer
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
+received int
+received int
+received int
+sending int
+received int
+starting 1chan producer
+starting int producer
+starting int producer
+sending int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
+received int
+received int
+received int
+sending int
+received int
+sending int
+sending int
+received int
+sending int
+sending int
+sending int
+sending int
+received int
+sending int
+sending int
+sending int
+sending int
+received int
+sending int
+received int
+got message from 3chan
+starting 2chan consumer
+starting 2chan consumer
+starting 2chan consumer
+starting int producer
+sending int
+starting 1chan producer
+sending int
+received int
+starting int producer
+sending int
+sending int
+received int
+starting 1chan producer
+starting 1chan producer
+starting int producer
+starting int producer
+sending int
+sending int
+received int
+sending int
+received int
+starting 1chan producer
+starting int producer
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan producer
+starting int producer
+starting int producer
+sending int
+starting 2chan consumer
+sending int
+received int
+starting int producer
+sending int
+received int
+received int
+starting int producer
+sending int
+got message from 2chan
+starting 1chan consumer
+sending int
+sending int
+received int
+received int
+starting 1chan producer
+starting int producer
+sending int
+got message from 2chan
+starting 1chan consumer
+got message from 2chan
+starting 1chan consumer
+sending int
+sending int
+sending int
+sending int
+sending int
+sending int
+sending int
+sending int
+sending int
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
+received int
+sending int
+sending int
+received int
+sending int
+sending int
+received int
+starting 1chan producer
 starting 3chan consumer
-starting 2chan producer
+starting int producer
+starting int producer
+sending int
+starting int producer
+starting int producer
+sending int
+starting 1chan producer
+sending int
 got message from 3chan
 starting 2chan consumer
 starting 2chan consumer
-got message from 2chan
-starting 1chan consumer
-starting int producer
-starting int producer
 sending int
+received int
 starting 1chan producer
 starting int producer
 sending int
 sending int
-starting int producer
 sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-starting int producer
+received int
 sending int
 sending int
 sending int
-starting 1chan producer
-starting int producer
-starting int producer
-starting 2chan producer
 sending int
-starting 1chan producer
-starting 1chan producer
-got message from 3chan
-starting 2chan consumer
-starting 2chan consumer
-starting 1chan producer
-got message from 3chan
-starting 2chan consumer
+sending int
+received int
+sending int
+received int
+sending int
+received int
 starting int producer
 sending int
 sending int
+received int
 starting int producer
 sending int
-sending int
-starting 1chan producer
-starting int producer
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-sending int
-sending int
-sending int
-starting int producer
-sending int
+received int
 got message from 2chan
 starting 1chan consumer
 starting 1chan consumer
 starting 1chan consumer
 received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+starting int producer
+sending int
+received int
+sending int
+received int
+received int
+received int
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting int producer
+starting int producer
+sending int
+starting int producer
+sending int
+received int
+received int
+received int
+received int
+received int
+sending int
+starting int producer
+sending int
+received int
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
 starting int producer
 sending int
 sending int
-starting 1chan consumer
-received int
-received int
-starting 1chan consumer
+starting int producer
+got message from 2chan
 starting 1chan consumer
 starting 1chan consumer
 received int
 sending int
 received int
+sending int
+received int
+sending int
+received int
+sending int
+sending int
+sending int
+sending int
+sending int
 sending int
 received int
 got message from 2chan
 starting 1chan consumer
 starting 1chan consumer
-received int
-starting 2chan producer
-starting 1chan producer
-sending int
-received int
-sending int
-received int
-starting 1chan producer
-got message from 3chan
-starting 2chan consumer
-starting 2chan consumer
-starting 2chan consumer
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
 starting 1chan consumer
 got message from 2chan
-starting 1chan producer
-starting int producer
-starting int producer
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-received int
-starting int producer
-sending int
-received int
-sending int
-starting 1chan producer
-got message from 3chan
-starting 2chan consumer
-starting 2chan consumer
-starting 2chan consumer
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-sending int
-received int
-received int
-sending int
-sending int
-received int
-starting 1chan producer
-starting int producer
-starting int producer
-sending int
-sending int
-sending int
-received int
-sending int
-received int
-starting 2chan producer
-starting 1chan producer
-starting 1chan producer
-got message from 3chan
-starting 2chan consumer
-sending int
-got message from 2chan
-starting 1chan consumer
-starting int producer
-starting 1chan producer
-starting int producer
-sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-received int
-starting 1chan consumer
-starting 1chan consumer
 starting 1chan consumer
 starting int producer
 sending int
 sending int
-received int
-sending int
-received int
-sending int
-received int
-starting int producer
 sending int
 received int
 starting int producer
@@ -214,138 +380,8 @@ sending int
 received int
 starting int producer
 sending int
-starting int producer
-sending int
-sending int
 received int
 sending int
-received int
-sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-starting int producer
-sending int
-starting int producer
-sending int
-received int
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-starting int producer
-sending int
-received int
-starting 1chan consumer
-received int
-received int
-received int
-sending int
-received int
-sending int
-sending int
-received int
-starting int producer
-sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-received int
-received int
-received int
-received int
-starting 1chan consumer
-sending int
-received int
-starting 2chan consumer
-starting 2chan consumer
-starting 1chan producer
-starting int producer
-sending int
-sending int
-received int
-starting 1chan consumer
-starting 1chan consumer
-sending int
-received int
-sending int
-received int
-starting 1chan producer
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-sending int
-received int
-received int
-starting int producer
-sending int
-sending int
-received int
-sending int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-starting 2chan consumer
-starting 2chan consumer
-sending int
-received int
-sending int
-starting int producer
-sending int
-received int
-sending int
-sending int
-received int
-sending int
-received int
-received int
-received int
-received int
-sending int
-received int
-sending int
-sending int
-sending int
-starting int producer
-sending int
-starting int producer
-sending int
-received int
-starting int producer
-sending int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-starting 1chan consumer
-starting 1chan producer
-starting int producer
-sending int
-sending int
-received int
-received int
-received int
-starting int producer
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
 received int
 sending int
 received int
@@ -353,95 +389,22 @@ starting int producer
 sending int
 received int
 starting 1chan producer
-starting int producer
-sending int
-starting int producer
-sending int
-starting int producer
-sending int
-received int
-sending int
-starting 1chan producer
-starting int producer
-starting int producer
-sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-received int
-sending int
-received int
-starting int producer
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-sending int
-received int
-sending int
-sending int
-starting int producer
-sending int
-sending int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-starting int producer
-received int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-received int
-received int
-sending int
 sending int
 received int
 starting int producer
 sending int
 sending int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-sending int
-received int
-sending int
-received int
 received int
 starting 1chan consumer
+sending int
+received int
+sending int
+received int
+sending int
+received int
 starting int producer
 sending int
-received int
 sending int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
 starting 1chan consumer
 received int
 sending int
@@ -457,35 +420,12 @@ sending int
 received int
 starting int producer
 sending int
-starting int producer
-sending int
-sending int
-sending int
-starting 2chan consumer
-sending int
-starting int producer
-sending int
-received int
-starting 1chan consumer
 sending int
 received int
 sending int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
 starting 1chan consumer
 received int
-received int
+sending int
 received int
 received int
 received int
@@ -493,122 +433,6 @@ received int
 received int
 received int
 sending int
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-starting int producer
-sending int
-sending int
-sending int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-starting 1chan producer
-starting int producer
-sending int
-starting int producer
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-received int
-received int
-sending int
-received int
-sending int
-sending int
-received int
-sending int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-starting 1chan consumer
-received int
-received int
-received int
-received int
-sending int
-received int
-received int
-sending int
-received int
-sending int
-received int
-starting int producer
-sending int
-sending int
-received int
-received int
-got message from 2chan
-starting 1chan consumer
-starting 1chan consumer
-sending int
-received int
-sending int
-received int
-starting 2chan consumer
-starting int producer
-sending int
-received int
-received int
-sending int
-received int
-received int
-sending int
-received int
-starting int producer
-sending int
-received int
 received int
 sending int
 received int
@@ -617,81 +441,161 @@ received int
 got message from 3chan
 starting 2chan consumer
 starting 2chan consumer
+starting int producer
+starting int producer
+sending int
+received int
+starting int producer
+starting int producer
+sending int
+sending int
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting int producer
+sending int
+received int
+sending int
 sending int
 received int
 sending int
 received int
 sending int
 received int
+received int
 sending int
+received int
+sending int
+received int
+starting int producer
+sending int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting int producer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+starting int producer
+sending int
+sending int
+sending int
+received int
+sending int
+received int
+starting 1chan consumer
 starting 1chan consumer
 received int
 received int
+sending int
+received int
+received int
+received int
+received int
+received int
+starting 1chan producer
+starting int producer
+sending int
+starting int producer
+sending int
+sending int
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+received int
+sending int
+starting int producer
+sending int
+starting int producer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+sending int
+received int
+starting int producer
+sending int
+starting int producer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+starting int producer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+starting int producer
+sending int
+received int
+sending int
+received int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
 received int
 received int
 received int
 received int
 received int
 sending int
-received int
 sending int
+starting 1chan consumer
 sending int
-received int
-sending int
-received int
-received int
-sending int
-sending int
-received int
+starting 1chan producer
 starting 2chan consumer
 got message from 2chan
 starting 1chan consumer
 starting 1chan consumer
 starting 1chan consumer
 sending int
-received int
-starting int producer
-sending int
-starting int producer
-sending int
-received int
-starting int producer
-sending int
-received int
-received int
-starting int producer
-sending int
-received int
-starting int producer
 sending int
 sending int
 received int
-sending int
-received int
-sending int
-received int
-starting int producer
-sending int
-starting int producer
 sending int
 sending int
 received int
 starting int producer
 sending int
-starting int producer
-sending int
-received int
-sending int
-sending int
-sending int
-received int
 received int
 starting 1chan consumer
-sending int
-received int
-sending int
-received int
-sending int
+starting 1chan consumer
 received int
 received int
 received int
@@ -702,37 +606,37 @@ starting 1chan consumer
 starting 1chan consumer
 starting 1chan consumer
 received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+sending int
+received int
+starting 1chan consumer
+starting 1chan consumer
+sending int
+received int
+starting 1chan consumer
+starting 1chan consumer
+received int
 starting int producer
 sending int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-starting int producer
-sending int
-received int
-sending int
-received int
-sending int
-received int
-received int
-sending int
-received int
 got message from 2chan
 starting 1chan consumer
 starting 1chan consumer
 starting 1chan consumer
 received int
 received int
+starting int producer
+sending int
+received int
+starting int producer
+sending int
+received int
+starting 2chan consumer
 sending int
 received int
 sending int
@@ -742,9 +646,6 @@ received int
 received int
 sending int
 received int
-sending int
-received int
-received int
 received int
 sending int
 received int
@@ -756,8 +657,107 @@ sending int
 received int
 sending int
 received int
+sending int
 received int
 sending int
 received int
+sending int
+received int
+received int
+sending int
+sending int
+received int
+sending int
+received int
+received int
+received int
+received int
+got message from 2chan
+sending int
+starting int producer
+sending int
+sending int
+received int
+sending int
+received int
+starting int producer
+sending int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+sending int
+received int
+starting int producer
+sending int
+sending int
+received int
+got message from 2chan
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
+received int
+starting int producer
+starting 1chan consumer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+starting int producer
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+received int
+received int
+received int
+received int
+sending int
+received int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+sending int
+received int
+received int
+starting 1chan consumer
+starting 1chan consumer
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+received int
+sending int
+received int
+received int
+sending int
+received int
+received int
+sending int
+received int
+sending int
 received int
 3 ^ 5: 243
